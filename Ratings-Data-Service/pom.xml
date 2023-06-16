@@ -58,6 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>Ratings-Data-Service-Docker</finalName>
 	</build>
 	<repositories>
 		<repository>
